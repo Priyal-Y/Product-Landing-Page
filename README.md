@@ -1,4 +1,4 @@
-# AnimatedProfileCard💻
+# Product Landing Page💻
 
 ## Tech Stack
 ___
